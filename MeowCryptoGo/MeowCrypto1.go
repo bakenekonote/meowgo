@@ -7,5 +7,5 @@ import (
 func main() {
 
   var s string = "meow"
-  fmt.Println(s + " is handsome.")
+  fmt.Println(s + " is super handsome.")
 }
